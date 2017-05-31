@@ -12,4 +12,4 @@ Pending Work -
 1. Update link to FB Page
 2. Fix launch date for timer
 
-##### Feel free to contirbute!
+#### Feel free to contirbute!
