@@ -11,5 +11,7 @@ Pending Work -
 
 1. Update link to FB Page
 2. Fix launch date for timer
+3. Final logo
+4. Background video
 
 #### Feel free to contirbute!
